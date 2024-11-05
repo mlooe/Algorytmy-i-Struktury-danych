@@ -1,0 +1,16 @@
+C:\Users\Wiktor\source\repos\PracaDomowa4\PracaDomowa4\obj\Debug\net8.0-windows\PracaDomowa4.Form1.resources
+C:\Users\Wiktor\source\repos\PracaDomowa4\PracaDomowa4\obj\Debug\net8.0-windows\PracaDomowa4.csproj.GenerateResource.cache
+C:\Users\Wiktor\source\repos\PracaDomowa4\PracaDomowa4\obj\Debug\net8.0-windows\PracaDomowa4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\PracaDomowa4\PracaDomowa4\obj\Debug\net8.0-windows\PracaDomowa4.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\PracaDomowa4\PracaDomowa4\obj\Debug\net8.0-windows\PracaDomowa4.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\PracaDomowa4\PracaDomowa4\obj\Debug\net8.0-windows\PracaDomowa4.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\PracaDomowa4\PracaDomowa4\bin\Debug\net8.0-windows\PracaDomowa4.exe
+C:\Users\Wiktor\source\repos\PracaDomowa4\PracaDomowa4\bin\Debug\net8.0-windows\PracaDomowa4.deps.json
+C:\Users\Wiktor\source\repos\PracaDomowa4\PracaDomowa4\bin\Debug\net8.0-windows\PracaDomowa4.runtimeconfig.json
+C:\Users\Wiktor\source\repos\PracaDomowa4\PracaDomowa4\bin\Debug\net8.0-windows\PracaDomowa4.dll
+C:\Users\Wiktor\source\repos\PracaDomowa4\PracaDomowa4\bin\Debug\net8.0-windows\PracaDomowa4.pdb
+C:\Users\Wiktor\source\repos\PracaDomowa4\PracaDomowa4\obj\Debug\net8.0-windows\PracaDomowa4.dll
+C:\Users\Wiktor\source\repos\PracaDomowa4\PracaDomowa4\obj\Debug\net8.0-windows\refint\PracaDomowa4.dll
+C:\Users\Wiktor\source\repos\PracaDomowa4\PracaDomowa4\obj\Debug\net8.0-windows\PracaDomowa4.pdb
+C:\Users\Wiktor\source\repos\PracaDomowa4\PracaDomowa4\obj\Debug\net8.0-windows\PracaDomowa4.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\PracaDomowa4\PracaDomowa4\obj\Debug\net8.0-windows\ref\PracaDomowa4.dll
