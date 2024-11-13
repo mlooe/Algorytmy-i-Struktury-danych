@@ -1,38 +1,38 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net6.0-windows7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Wiktor\\.nuget\\packages\\": {}
+    "C:\\Users\\local\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wiktor\\source\\repos\\PracaDomowa5\\PracaDomowa5\\PracaDomowa5.csproj",
+      "projectUniqueName": "D:\\175033\\PracaDomowa5\\PracaDomowa5\\PracaDomowa5.csproj",
       "projectName": "PracaDomowa5",
-      "projectPath": "C:\\Users\\Wiktor\\source\\repos\\PracaDomowa5\\PracaDomowa5\\PracaDomowa5.csproj",
-      "packagesPath": "C:\\Users\\Wiktor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wiktor\\source\\repos\\PracaDomowa5\\PracaDomowa5\\obj\\",
+      "projectPath": "D:\\175033\\PracaDomowa5\\PracaDomowa5\\PracaDomowa5.csproj",
+      "packagesPath": "C:\\Users\\local\\.nuget\\packages\\",
+      "outputPath": "D:\\175033\\PracaDomowa5\\PracaDomowa5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Wiktor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\local\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0-windows"
+        "net6.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
           "projectReferences": {}
         }
       },
@@ -40,16 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
-      "net8.0-windows7.0": {
-        "targetAlias": "net8.0-windows",
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
         "imports": [
           "net461",
           "net462",
@@ -69,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -25,7 +25,7 @@ namespace PracaDomowa5
         public void PolaczLewe(NodeT dziecko)
         {
             this.lewe = dziecko;
-            if(dziecko != null)
+            if (dziecko != null)
             {
                 dziecko.rodzic = this;
             }
@@ -34,10 +34,29 @@ namespace PracaDomowa5
         public void PolaczPrawe(NodeT dziecko)
         {
             this.prawe = dziecko;
-            if(dziecko != null)
+            if (dziecko != null)
             {
                 dziecko.rodzic = this;
             }
         }
+
+        public int GetLiczbaDzieci()
+        {
+            int wynik = 0;
+            if(this.lewe != null)
+            {
+                wynik++;
+            }
+
+            if(this.prawe != null)
+            {
+                wynik++;
+            }
+            return wynik;
+        }
+
+
+
+
     }
 }

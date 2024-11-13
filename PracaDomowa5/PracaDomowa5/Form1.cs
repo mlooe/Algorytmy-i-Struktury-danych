@@ -28,8 +28,7 @@ namespace PracaDomowa5
             label1.Text = t1.ToString();
 
             t1.Remove(5);
-            label1.Text=t1.ToString();
-            
+            label1.Text = t1.ToString();
         }
     }
 }
