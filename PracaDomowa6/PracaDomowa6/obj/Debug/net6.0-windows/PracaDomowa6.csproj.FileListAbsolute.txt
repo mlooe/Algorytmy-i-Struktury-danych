@@ -1,0 +1,17 @@
+D:\175033\PracaDomowa6\PracaDomowa6\bin\Debug\net6.0-windows\PracaDomowa6.exe
+D:\175033\PracaDomowa6\PracaDomowa6\bin\Debug\net6.0-windows\PracaDomowa6.deps.json
+D:\175033\PracaDomowa6\PracaDomowa6\bin\Debug\net6.0-windows\PracaDomowa6.runtimeconfig.json
+D:\175033\PracaDomowa6\PracaDomowa6\bin\Debug\net6.0-windows\PracaDomowa6.dll
+D:\175033\PracaDomowa6\PracaDomowa6\bin\Debug\net6.0-windows\PracaDomowa6.pdb
+D:\175033\PracaDomowa6\PracaDomowa6\obj\Debug\net6.0-windows\PracaDomowa6.csproj.AssemblyReference.cache
+D:\175033\PracaDomowa6\PracaDomowa6\obj\Debug\net6.0-windows\PracaDomowa6.Form1.resources
+D:\175033\PracaDomowa6\PracaDomowa6\obj\Debug\net6.0-windows\PracaDomowa6.csproj.GenerateResource.cache
+D:\175033\PracaDomowa6\PracaDomowa6\obj\Debug\net6.0-windows\PracaDomowa6.GeneratedMSBuildEditorConfig.editorconfig
+D:\175033\PracaDomowa6\PracaDomowa6\obj\Debug\net6.0-windows\PracaDomowa6.AssemblyInfoInputs.cache
+D:\175033\PracaDomowa6\PracaDomowa6\obj\Debug\net6.0-windows\PracaDomowa6.AssemblyInfo.cs
+D:\175033\PracaDomowa6\PracaDomowa6\obj\Debug\net6.0-windows\PracaDomowa6.csproj.CoreCompileInputs.cache
+D:\175033\PracaDomowa6\PracaDomowa6\obj\Debug\net6.0-windows\PracaDomowa6.dll
+D:\175033\PracaDomowa6\PracaDomowa6\obj\Debug\net6.0-windows\refint\PracaDomowa6.dll
+D:\175033\PracaDomowa6\PracaDomowa6\obj\Debug\net6.0-windows\PracaDomowa6.pdb
+D:\175033\PracaDomowa6\PracaDomowa6\obj\Debug\net6.0-windows\PracaDomowa6.genruntimeconfig.cache
+D:\175033\PracaDomowa6\PracaDomowa6\obj\Debug\net6.0-windows\ref\PracaDomowa6.dll
