@@ -1,0 +1,14 @@
+C:\Users\Wiktor\source\repos\GrafyZadanie\GrafyZadanie\bin\Debug\net8.0\GrafyZadanie.exe
+C:\Users\Wiktor\source\repos\GrafyZadanie\GrafyZadanie\bin\Debug\net8.0\GrafyZadanie.deps.json
+C:\Users\Wiktor\source\repos\GrafyZadanie\GrafyZadanie\bin\Debug\net8.0\GrafyZadanie.runtimeconfig.json
+C:\Users\Wiktor\source\repos\GrafyZadanie\GrafyZadanie\bin\Debug\net8.0\GrafyZadanie.dll
+C:\Users\Wiktor\source\repos\GrafyZadanie\GrafyZadanie\bin\Debug\net8.0\GrafyZadanie.pdb
+C:\Users\Wiktor\source\repos\GrafyZadanie\GrafyZadanie\obj\Debug\net8.0\GrafyZadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\GrafyZadanie\GrafyZadanie\obj\Debug\net8.0\GrafyZadanie.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\GrafyZadanie\GrafyZadanie\obj\Debug\net8.0\GrafyZadanie.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\GrafyZadanie\GrafyZadanie\obj\Debug\net8.0\GrafyZadanie.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\GrafyZadanie\GrafyZadanie\obj\Debug\net8.0\GrafyZadanie.dll
+C:\Users\Wiktor\source\repos\GrafyZadanie\GrafyZadanie\obj\Debug\net8.0\refint\GrafyZadanie.dll
+C:\Users\Wiktor\source\repos\GrafyZadanie\GrafyZadanie\obj\Debug\net8.0\GrafyZadanie.pdb
+C:\Users\Wiktor\source\repos\GrafyZadanie\GrafyZadanie\obj\Debug\net8.0\GrafyZadanie.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\GrafyZadanie\GrafyZadanie\obj\Debug\net8.0\ref\GrafyZadanie.dll
