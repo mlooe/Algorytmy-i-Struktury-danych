@@ -1,0 +1,16 @@
+C:\Users\Wiktor\source\repos\PierwszyProgram\PierwszyProgram\bin\Debug\net8.0-windows\PierwszyProgram.exe
+C:\Users\Wiktor\source\repos\PierwszyProgram\PierwszyProgram\bin\Debug\net8.0-windows\PierwszyProgram.deps.json
+C:\Users\Wiktor\source\repos\PierwszyProgram\PierwszyProgram\bin\Debug\net8.0-windows\PierwszyProgram.runtimeconfig.json
+C:\Users\Wiktor\source\repos\PierwszyProgram\PierwszyProgram\bin\Debug\net8.0-windows\PierwszyProgram.dll
+C:\Users\Wiktor\source\repos\PierwszyProgram\PierwszyProgram\bin\Debug\net8.0-windows\PierwszyProgram.pdb
+C:\Users\Wiktor\source\repos\PierwszyProgram\PierwszyProgram\obj\Debug\net8.0-windows\PierwszyProgram.Form1.resources
+C:\Users\Wiktor\source\repos\PierwszyProgram\PierwszyProgram\obj\Debug\net8.0-windows\PierwszyProgram.csproj.GenerateResource.cache
+C:\Users\Wiktor\source\repos\PierwszyProgram\PierwszyProgram\obj\Debug\net8.0-windows\PierwszyProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\PierwszyProgram\PierwszyProgram\obj\Debug\net8.0-windows\PierwszyProgram.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\PierwszyProgram\PierwszyProgram\obj\Debug\net8.0-windows\PierwszyProgram.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\PierwszyProgram\PierwszyProgram\obj\Debug\net8.0-windows\PierwszyProgram.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\PierwszyProgram\PierwszyProgram\obj\Debug\net8.0-windows\PierwszyProgram.dll
+C:\Users\Wiktor\source\repos\PierwszyProgram\PierwszyProgram\obj\Debug\net8.0-windows\refint\PierwszyProgram.dll
+C:\Users\Wiktor\source\repos\PierwszyProgram\PierwszyProgram\obj\Debug\net8.0-windows\PierwszyProgram.pdb
+C:\Users\Wiktor\source\repos\PierwszyProgram\PierwszyProgram\obj\Debug\net8.0-windows\PierwszyProgram.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\PierwszyProgram\PierwszyProgram\obj\Debug\net8.0-windows\ref\PierwszyProgram.dll
