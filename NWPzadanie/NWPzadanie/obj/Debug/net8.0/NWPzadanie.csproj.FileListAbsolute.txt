@@ -1,0 +1,14 @@
+C:\Users\Wiktor\source\repos\NWPzadanie\NWPzadanie\bin\Debug\net8.0\NWPzadanie.exe
+C:\Users\Wiktor\source\repos\NWPzadanie\NWPzadanie\bin\Debug\net8.0\NWPzadanie.deps.json
+C:\Users\Wiktor\source\repos\NWPzadanie\NWPzadanie\bin\Debug\net8.0\NWPzadanie.runtimeconfig.json
+C:\Users\Wiktor\source\repos\NWPzadanie\NWPzadanie\bin\Debug\net8.0\NWPzadanie.dll
+C:\Users\Wiktor\source\repos\NWPzadanie\NWPzadanie\bin\Debug\net8.0\NWPzadanie.pdb
+C:\Users\Wiktor\source\repos\NWPzadanie\NWPzadanie\obj\Debug\net8.0\NWPzadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\NWPzadanie\NWPzadanie\obj\Debug\net8.0\NWPzadanie.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\NWPzadanie\NWPzadanie\obj\Debug\net8.0\NWPzadanie.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\NWPzadanie\NWPzadanie\obj\Debug\net8.0\NWPzadanie.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\NWPzadanie\NWPzadanie\obj\Debug\net8.0\NWPzadanie.dll
+C:\Users\Wiktor\source\repos\NWPzadanie\NWPzadanie\obj\Debug\net8.0\refint\NWPzadanie.dll
+C:\Users\Wiktor\source\repos\NWPzadanie\NWPzadanie\obj\Debug\net8.0\NWPzadanie.pdb
+C:\Users\Wiktor\source\repos\NWPzadanie\NWPzadanie\obj\Debug\net8.0\NWPzadanie.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\NWPzadanie\NWPzadanie\obj\Debug\net8.0\ref\NWPzadanie.dll
