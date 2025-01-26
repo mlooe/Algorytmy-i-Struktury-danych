@@ -1,0 +1,14 @@
+C:\Users\Wiktor\source\repos\BinarySeachTree\BinarySeachTree\bin\Debug\net8.0\BinarySeachTree.exe
+C:\Users\Wiktor\source\repos\BinarySeachTree\BinarySeachTree\bin\Debug\net8.0\BinarySeachTree.deps.json
+C:\Users\Wiktor\source\repos\BinarySeachTree\BinarySeachTree\bin\Debug\net8.0\BinarySeachTree.runtimeconfig.json
+C:\Users\Wiktor\source\repos\BinarySeachTree\BinarySeachTree\bin\Debug\net8.0\BinarySeachTree.dll
+C:\Users\Wiktor\source\repos\BinarySeachTree\BinarySeachTree\bin\Debug\net8.0\BinarySeachTree.pdb
+C:\Users\Wiktor\source\repos\BinarySeachTree\BinarySeachTree\obj\Debug\net8.0\BinarySeachTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\BinarySeachTree\BinarySeachTree\obj\Debug\net8.0\BinarySeachTree.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\BinarySeachTree\BinarySeachTree\obj\Debug\net8.0\BinarySeachTree.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\BinarySeachTree\BinarySeachTree\obj\Debug\net8.0\BinarySeachTree.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\BinarySeachTree\BinarySeachTree\obj\Debug\net8.0\BinarySeachTree.dll
+C:\Users\Wiktor\source\repos\BinarySeachTree\BinarySeachTree\obj\Debug\net8.0\refint\BinarySeachTree.dll
+C:\Users\Wiktor\source\repos\BinarySeachTree\BinarySeachTree\obj\Debug\net8.0\BinarySeachTree.pdb
+C:\Users\Wiktor\source\repos\BinarySeachTree\BinarySeachTree\obj\Debug\net8.0\BinarySeachTree.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\BinarySeachTree\BinarySeachTree\obj\Debug\net8.0\ref\BinarySeachTree.dll
