@@ -1,0 +1,16 @@
+C:\Users\Wiktor\source\repos\AlgorytmySortowania\AlgorytmySortowania\bin\Debug\net8.0-windows\AlgorytmySortowania.exe
+C:\Users\Wiktor\source\repos\AlgorytmySortowania\AlgorytmySortowania\bin\Debug\net8.0-windows\AlgorytmySortowania.deps.json
+C:\Users\Wiktor\source\repos\AlgorytmySortowania\AlgorytmySortowania\bin\Debug\net8.0-windows\AlgorytmySortowania.runtimeconfig.json
+C:\Users\Wiktor\source\repos\AlgorytmySortowania\AlgorytmySortowania\bin\Debug\net8.0-windows\AlgorytmySortowania.dll
+C:\Users\Wiktor\source\repos\AlgorytmySortowania\AlgorytmySortowania\bin\Debug\net8.0-windows\AlgorytmySortowania.pdb
+C:\Users\Wiktor\source\repos\AlgorytmySortowania\AlgorytmySortowania\obj\Debug\net8.0-windows\AlgorytmySortowania.Form1.resources
+C:\Users\Wiktor\source\repos\AlgorytmySortowania\AlgorytmySortowania\obj\Debug\net8.0-windows\AlgorytmySortowania.csproj.GenerateResource.cache
+C:\Users\Wiktor\source\repos\AlgorytmySortowania\AlgorytmySortowania\obj\Debug\net8.0-windows\AlgorytmySortowania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\AlgorytmySortowania\AlgorytmySortowania\obj\Debug\net8.0-windows\AlgorytmySortowania.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\AlgorytmySortowania\AlgorytmySortowania\obj\Debug\net8.0-windows\AlgorytmySortowania.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\AlgorytmySortowania\AlgorytmySortowania\obj\Debug\net8.0-windows\AlgorytmySortowania.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\AlgorytmySortowania\AlgorytmySortowania\obj\Debug\net8.0-windows\AlgorytmySortowania.dll
+C:\Users\Wiktor\source\repos\AlgorytmySortowania\AlgorytmySortowania\obj\Debug\net8.0-windows\refint\AlgorytmySortowania.dll
+C:\Users\Wiktor\source\repos\AlgorytmySortowania\AlgorytmySortowania\obj\Debug\net8.0-windows\AlgorytmySortowania.pdb
+C:\Users\Wiktor\source\repos\AlgorytmySortowania\AlgorytmySortowania\obj\Debug\net8.0-windows\AlgorytmySortowania.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\AlgorytmySortowania\AlgorytmySortowania\obj\Debug\net8.0-windows\ref\AlgorytmySortowania.dll
