@@ -1,0 +1,16 @@
+C:\Users\Wiktor\source\repos\ListyDwukierunkowe\ListyDwukierunkowe\bin\Debug\net8.0-windows\ListyDwukierunkowe.exe
+C:\Users\Wiktor\source\repos\ListyDwukierunkowe\ListyDwukierunkowe\bin\Debug\net8.0-windows\ListyDwukierunkowe.deps.json
+C:\Users\Wiktor\source\repos\ListyDwukierunkowe\ListyDwukierunkowe\bin\Debug\net8.0-windows\ListyDwukierunkowe.runtimeconfig.json
+C:\Users\Wiktor\source\repos\ListyDwukierunkowe\ListyDwukierunkowe\bin\Debug\net8.0-windows\ListyDwukierunkowe.dll
+C:\Users\Wiktor\source\repos\ListyDwukierunkowe\ListyDwukierunkowe\bin\Debug\net8.0-windows\ListyDwukierunkowe.pdb
+C:\Users\Wiktor\source\repos\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net8.0-windows\ListyDwukierunkowe.Form1.resources
+C:\Users\Wiktor\source\repos\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net8.0-windows\ListyDwukierunkowe.csproj.GenerateResource.cache
+C:\Users\Wiktor\source\repos\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net8.0-windows\ListyDwukierunkowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net8.0-windows\ListyDwukierunkowe.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net8.0-windows\ListyDwukierunkowe.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net8.0-windows\ListyDwukierunkowe.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net8.0-windows\ListyDwukierunkowe.dll
+C:\Users\Wiktor\source\repos\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net8.0-windows\refint\ListyDwukierunkowe.dll
+C:\Users\Wiktor\source\repos\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net8.0-windows\ListyDwukierunkowe.pdb
+C:\Users\Wiktor\source\repos\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net8.0-windows\ListyDwukierunkowe.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net8.0-windows\ref\ListyDwukierunkowe.dll
