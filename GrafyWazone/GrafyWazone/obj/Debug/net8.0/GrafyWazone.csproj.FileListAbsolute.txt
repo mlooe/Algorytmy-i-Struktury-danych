@@ -1,0 +1,14 @@
+C:\Users\Wiktor\source\repos\GrafyWazone\GrafyWazone\bin\Debug\net8.0\GrafyWazone.exe
+C:\Users\Wiktor\source\repos\GrafyWazone\GrafyWazone\bin\Debug\net8.0\GrafyWazone.deps.json
+C:\Users\Wiktor\source\repos\GrafyWazone\GrafyWazone\bin\Debug\net8.0\GrafyWazone.runtimeconfig.json
+C:\Users\Wiktor\source\repos\GrafyWazone\GrafyWazone\bin\Debug\net8.0\GrafyWazone.dll
+C:\Users\Wiktor\source\repos\GrafyWazone\GrafyWazone\bin\Debug\net8.0\GrafyWazone.pdb
+C:\Users\Wiktor\source\repos\GrafyWazone\GrafyWazone\obj\Debug\net8.0\GrafyWazone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\GrafyWazone\GrafyWazone\obj\Debug\net8.0\GrafyWazone.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\GrafyWazone\GrafyWazone\obj\Debug\net8.0\GrafyWazone.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\GrafyWazone\GrafyWazone\obj\Debug\net8.0\GrafyWazone.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\GrafyWazone\GrafyWazone\obj\Debug\net8.0\GrafyWazone.dll
+C:\Users\Wiktor\source\repos\GrafyWazone\GrafyWazone\obj\Debug\net8.0\refint\GrafyWazone.dll
+C:\Users\Wiktor\source\repos\GrafyWazone\GrafyWazone\obj\Debug\net8.0\GrafyWazone.pdb
+C:\Users\Wiktor\source\repos\GrafyWazone\GrafyWazone\obj\Debug\net8.0\GrafyWazone.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\GrafyWazone\GrafyWazone\obj\Debug\net8.0\ref\GrafyWazone.dll
